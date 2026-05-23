@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Java Full Stack Developer passionate about building scalable backend systems and modern frontend experiences.  
+🚀 Full Stack Developer with 2+ years of experience designing and delivering scalable web applications using Java Spring Boot and React.js. Hands-on expertise in building RESTful APIs, database integration, and cloud deployment on AWS. Proven ability to deliver production-ready applications for real clients. Strong foundation in Data Structures & Algorithms and Object-Oriented Programming. Passionate about clean architecture, backend development, and continuous learning.
 
 💡 Skilled in Java, Spring Boot, ReactJS, Hibernate, MySQL, REST APIs, and modern UI development.  
 ⚡ Focused on creating full-stack applications with premium UI/UX and scalable architecture.  
